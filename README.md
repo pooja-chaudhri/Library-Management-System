@@ -2,7 +2,7 @@
 
 This is a simple **console-based Library Management System** built using **Core Java**. It allows users to view books, issue and return books, and view registered users.
 
----
+
 
 ##  Features
 
@@ -12,7 +12,7 @@ This is a simple **console-based Library Management System** built using **Core 
 -  Return a book  
 -  Simple menu-driven interface  
 
----
+
 
 ##  Technologies Used
 
@@ -21,7 +21,7 @@ This is a simple **console-based Library Management System** built using **Core 
 - Collections (ArrayList)
 - Scanner (User input)
 
----
+
 
 ## Functionalities Explained
 
@@ -33,7 +33,7 @@ This is a simple **console-based Library Management System** built using **Core 
 | 4️ Return Book | Returns a book back to the library |
 | 0️ Exit | Ends the program |
 
----
+
 
 ## 📂 Project Folder Structure
 
@@ -44,7 +44,7 @@ This is a simple **console-based Library Management System** built using **Core 
 ├── LibrarySystem.jar
 └── README.md
 
----
+
 
 ##   How to Run
 
@@ -63,7 +63,8 @@ This is a simple **console-based Library Management System** built using **Core 
 ```bash
 java -jar LibrarySystem.jar
 
----
+
+
 ###  Author
 Pooja Chaudhri
 
