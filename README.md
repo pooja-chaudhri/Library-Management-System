@@ -1,4 +1,4 @@
-#  Library Management System (Java Console App)
+#  Library Management System 
 
 This is a simple **console-based Library Management System** built using **Core Java**. It allows users to view books, issue and return books, and view registered users.
 
@@ -60,7 +60,7 @@ This is a simple **console-based Library Management System** built using **Core 
 2. Open terminal/command prompt  
 3. Run the command:
 
-```bash
+
 java -jar LibrarySystem.jar
 
 
